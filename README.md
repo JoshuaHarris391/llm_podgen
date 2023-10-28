@@ -37,7 +37,7 @@ static_ffmpeg.add_paths()
 - [jupyter](eleven_tts.ipynb)
 - Used perplexity to generate podcast script from this [publication](https://www.nature.com/articles/s41586-023-06160-y)
 - [perplexity prompt](https://www.perplexity.ai/search/Write-a-podcast-MFZdS.0wRaWQBLGwQD6_8g?s=c)
-- [stitched together final audio](output/audio_combined/lavender_jiang/lavender_jiang_output_audio.mp3)
+- [stitched together final audio](output/audio_combined/lavender_jiang/lavender_jiang_output_audio.mp3?raw=true)
 
 
 
