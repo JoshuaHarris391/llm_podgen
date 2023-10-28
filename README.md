@@ -25,6 +25,9 @@ static_ffmpeg.add_paths()
 
 3. Rename `config_template.ini` to `config.ini` and save your api keys
 1. Create a podcast script file in `data/podcast_scripts` as `<podcast_name>.txt`
+    - Interviewer paragraphs should start with `**host:** `
+    - Guest paragraphs should start with `**guest:** `
+    - Will update to better tags later, that are not markdown lol
 1. Define podcast script file name in the `pod_script_fn` variable
 1. Alternative speaker ids can be found in [speakers_eleven.json](data/json/speakers_eleven.json)
 
