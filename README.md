@@ -28,6 +28,7 @@ static_ffmpeg.add_paths()
     - Interviewer paragraphs should start with `**host:** `
     - Guest paragraphs should start with `**guest:** `
     - Will update to better tags later, that are not markdown lol
+    - [example script](data/podcast_scripts/lavender_jiang.txt)
 1. Define podcast script file name in the `pod_script_fn` variable
 1. Alternative speaker ids can be found in [speakers_eleven.json](data/json/speakers_eleven.json)
 
