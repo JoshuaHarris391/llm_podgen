@@ -1,0 +1,29 @@
+**host:** Hello, and welcome to another episode of our podcast. Today, we have a special guest with us, Jan Clusmann, the author of a fascinating paper titled "The future landscape of large language models in medicine," published in Communications Medicine on October 10, 2023. Welcome, Jan.
+
+**guest:** Thank you for having me.
+
+**host:** Jan, your paper discusses the potential and limitations of artificial intelligence-based large language models in medical research. Could you explain what these large language models are and why they're important?
+
+**guest:** Sure. Large language models, or LLMs, are AI tools specifically trained to process and generate text. They can answer questions, summarize, paraphrase, and translate text on a level that is nearly indistinguishable from human capabilities. They have the potential to democratize medical knowledge and facilitate access to healthcare.
+
+**host:** That's fascinating. It's like having a super-smart assistant that can read and understand all the medical literature out there. But I guess, like all powerful tools, they come with their own set of challenges?
+
+**guest:** Absolutely. While these models have the potential to revolutionize various areas of medicine, they also raise concerns about misinformation, privacy, biases in the training data, and potential for misuse.
+
+**host:** I see. So, it's a double-edged sword. But let's focus on the positive side for a moment. How can these LLMs improve patient care?
+
+**guest:** LLMs can be used to improve patient care in several ways. They can convey medical knowledge, assist communication with patients through translations and summaries, and simplify documentation tasks by converting between unstructured and structured information.
+
+**host:** That sounds like a game-changer, especially in a world where language barriers often hinder patient participation in decisions regarding their own well-being. But what about the research side of things?
+
+**guest:** LLMs can help navigate the challenges of rapidly evolving scientific evidence. They can summarize scientific concepts and existing evidence, enabling researchers to require access to a smaller number of more easily accessible resources. By uncovering possible connections between literature, LLMs could help discover new research trajectories, thereby contributing to shaping a more innovative and dynamic research landscape.
+
+**host:** That's incredible. It's like having a super-powered research assistant that never sleeps. But I guess, like all powerful tools, they need to be used responsibly?
+
+**guest:** Yes, that's correct. Before LLMs can be applied in the medical domain, central conditions such as safety, validity, and ethical concerns must be addressed.
+
+**host:** That's a very important point, Jan. As we move forward with these technologies, we need to ensure that they are used responsibly and ethically. Thank you for sharing your insights with us today.
+
+**guest:** It was my pleasure. Thank you for having me.
+
+**host:** And thank you, listeners, for tuning in. Remember, the future is here, and it's up to us to use it wisely. Until next time, stay curious and keep learning.

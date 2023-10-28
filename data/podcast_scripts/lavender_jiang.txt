@@ -1,0 +1,24 @@
+
+**host:** Welcome to today's podcast! We have a special guest with us, Dr Lavender Jiang, the author of an exciting paper titled "Health system-scale language models are all-purpose prediction engines." The paper was published in Nature on June 7, 2023. Lavender, it's great to have you here. Can you give us a brief overview of your paper and its main findings?
+
+**guest:** Thank you for having me! In our paper, we show that unstructured clinical notes from electronic health records can be used to train clinical language models, which can then be applied as all-purpose clinical predictive engines. We developed a large language model called NYUTron and fine-tuned it across a wide range of clinical and operational predictive tasks. Our results demonstrate the potential of using clinical language models in medicine to provide guidance at the point of care.
+
+**host:** That sounds fascinating! Can you explain how NYUTron works and how it was trained?
+
+**guest:** Sure! NYUTron is based on a bidirectional encoder model known as BERT, and it was pretrained on a vast set of unlabelled clinical notes from the NYU Langone electronic health record system. We then fine-tuned the model for each downstream task using a masked language modeling objective, which involves masking words or subwords in clinical notes and training the model to fill in the masked word correctly.
+
+**host:** It's impressive how you've managed to use unstructured clinical notes to train such a powerful model. What were some of the tasks you evaluated NYUTron on, and how did it perform?
+
+**guest:** We evaluated NYUTron on five different tasks: 30-day all-cause readmission prediction, in-hospital mortality prediction, comorbidity prediction, insurance denial prediction, and length of stay prediction. In general, NYUTron performed well across these tasks, showing its potential as an all-purpose prediction tool for clinical and operational outcomes.
+
+**host:** It's amazing to see how versatile NYUTron is in handling various tasks. How do you envision NYUTron being integrated into clinical workflows and assisting healthcare professionals?
+
+**guest:** We believe that clinical language models like NYUTron can be integrated seamlessly into clinical workflows, providing real-time guidance to physicians at the point of care. For example, NYUTron could help predict patient outcomes, identify potential insurance denials, or estimate the length of stay, allowing healthcare professionals to make more informed decisions and improve patient care.
+
+**host:** I can see how this could be a game-changer in healthcare. However, I'm curious about the generalizability of NYUTron across different clinical environments. How does it perform in different settings?
+
+**guest:** We investigated the robustness of NYUTron across two geographically separated hospitals within the NYU Langone Health System. Our results showed that NYUTron can be generalized to different sites through local fine-tuning, which is a promising finding for its potential application in various healthcare settings.
+
+**host:** That's great to hear! I can imagine how this technology could revolutionize healthcare by providing valuable insights and assistance to healthcare professionals. Thank you for sharing your work with us, Lavender. It's been a pleasure having you on the podcast.
+
+**guest:** Thank you for having me! I'm excited to see how clinical language models like NYUTron will continue to evolve and contribute to improving healthcare outcomes.
